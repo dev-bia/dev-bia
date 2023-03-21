@@ -2,7 +2,8 @@
   
   <h1 align="center">
     Olá! Como vai? Eu sou a 
-    <a href="https://www.linkedin.com/in/dev-bia/">Beatriz!</a> Mas me chame de Bia! 🥰
+    <a href="https://www.linkedin.com/in/dev-bia/">Beatriz!</a> 
+    <p>Mas me chame de Bia! 🥰</p>
   </h1>
   
   <p align="center">
